@@ -1,0 +1,8 @@
+para compilar e executar use:
+
+    gcc -w -O2 -o main aula2exer1_EduardoSilva_221008580.c
+    ./main
+
+ou use a diretiva run:
+
+    make run
